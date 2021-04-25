@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @name11fs
 - 👀 I’m interested in computer graphics and animation
-- 🌱 I’m currently learning Blender and OpenGL
+- 🌱 I’m currently learning Godot and OpenGL
 - 💞️ I’m looking to collaborate on game and video editting
 - 📫 How to reach me: email me: nam.e11.fs@gmail.com
 
